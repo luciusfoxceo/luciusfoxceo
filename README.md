@@ -2,6 +2,13 @@
 - __Cool__
 - *stuff*
 - awaits
+### Are you ready?
+```
+function(inputSomething){
+    Do Something
+}
+```
+### Cool
 <!--
 **luciusfoxceo/luciusfoxceo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
