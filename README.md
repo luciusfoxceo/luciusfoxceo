@@ -9,6 +9,7 @@ function(inputSomething){
 }
 ```
 ### Cool
+[Angular Rocks](https://www.angular.dev)
 <!--
 **luciusfoxceo/luciusfoxceo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
